@@ -184,3 +184,9 @@ Margin-bottom: 0px;
   line-height: 1.667;
   Margin-bottom: 20px;
   }
+  .logo {
+  font-size: 24px;font-family: "Arial";color: #474747;font-weight: bold;line-height: 40px;
+}
+.tel {
+  font-size: 24px;font-family: "Arial";color: #006681;font-weight: bold;line-height: 40px;
+}
