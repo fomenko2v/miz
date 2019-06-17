@@ -108,7 +108,7 @@ font-family: "Arial", sans-serif;
 color: #474747;
 line-height: 30px;
 text-align: left;
-Margin-bottom: 20px;
+Margin-bottom: 17px;
 }
 .p3 {
   font-size: 14px;
@@ -124,7 +124,11 @@ font-family: "Arial", sans-serif;
 }
 .padd41 {
   padding-top: 32px;
-  padding-bottom: 36px;
+  padding-bottom: 34px;
+}
+.padd42 {
+  padding-top: 35px;
+  padding-bottom: 26px;
 }
 .footert {
   font-size: 10px;
@@ -132,13 +136,13 @@ font-family: "Arial", sans-serif;
   color: #989898;
   line-height: 18px;
   text-align: left;
-  Margin-bottom: 30px;
+  Margin-bottom: 18px;
 }
 .footert a {
   color: #17758d;
 }
 .call {
-font-size: 24px;
+font-size: 21px;
 font-family: "Arial", sans-serif;
 color: #006681;
 line-height: 28px;
